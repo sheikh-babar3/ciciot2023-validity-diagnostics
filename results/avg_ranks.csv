@@ -1,0 +1,21 @@
+model,0
+CAFE-TF,1.0
+Cascaded Ensemble,2.0
+PANE,3.4
+A4 GIDS,3.8
+LSTM,5.2
+Bi-LSTM,5.6
+MLP,7.0
+A2 IAT-DNN,8.0
+A5 GCN-DQN,9.2
+Naive Bayes,10.6
+ARID,11.0
+Linear SVM,13.0
+RBF-SVM,13.2
+FedHAN,13.6
+Logistic Regression,14.8
+CNN-1D,16.2
+VAE Detector,16.7
+A1 Transformer,16.7
+Isolation Forest,19.0
+One-Class SVM,20.0
