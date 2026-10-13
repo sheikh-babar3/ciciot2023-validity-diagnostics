@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite it as below."
+title: "Code and results for: Closed-form validity diagnostics for class-imbalanced IoT intrusion-detection benchmarks"
+authors:
+  - family-names: Hameed
+    given-names: Sheikh Babar
+  - family-names: Hayat
+    given-names: Muhammad Faisal
+  - family-names: Rizwan
+    given-names: Muhammad
+  - family-names: Bagdasar
+    given-names: Ovidiu
+  - family-names: Kadar
+    given-names: Manuella
+license: MIT

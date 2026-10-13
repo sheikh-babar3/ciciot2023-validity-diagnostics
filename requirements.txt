@@ -1,0 +1,9 @@
+numpy
+pandas
+scipy
+scikit-learn
+imbalanced-learn
+torch
+matplotlib
+jupyter
+# pin exact versions with: pip freeze | grep -i -E "numpy|pandas|scipy|scikit-learn|imbalanced|torch|matplotlib"
